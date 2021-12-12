@@ -1,0 +1,8 @@
+{
+  "id": ${videoGameId},
+  "name": "string",
+  "releaseDate": "2021-12-06T21:01:34.586Z",
+  "reviewScore": 0,
+  "category": "string",
+  "rating": "string"
+}
